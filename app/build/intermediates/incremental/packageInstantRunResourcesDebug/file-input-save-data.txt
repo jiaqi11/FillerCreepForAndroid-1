@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Fri Sep 14 21:30:41 MDT 2018
+2.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\matter.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\dark_energy.png
+4.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\graphicalview.xml
+5.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\graphicalinterface.xml
+10.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\textinterface.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\energy.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\dark_matter.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

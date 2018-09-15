@@ -1,0 +1,4 @@
+#Fri Sep 14 21:30:47 MDT 2018
+base.0=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

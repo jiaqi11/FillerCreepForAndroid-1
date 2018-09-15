@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\graphicalview.xml",
+        "source": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\src\\main\\res\\layout\\graphicalview.xml"
+    },
+    {
+        "merged": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textinterface.xml",
+        "source": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\src\\main\\res\\layout\\textinterface.xml"
+    },
+    {
+        "merged": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\graphicalinterface.xml",
+        "source": "D:\\ua\\cmput301\\FillerCreepForAndroid-1-master\\app\\src\\main\\res\\layout\\graphicalinterface.xml"
+    }
+]
